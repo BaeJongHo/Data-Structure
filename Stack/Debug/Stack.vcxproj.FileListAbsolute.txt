@@ -1,0 +1,2 @@
+C:\Users\owner\source\repos\Stack\Debug\Stack.exe
+C:\Users\owner\source\repos\Stack\Debug\Stack.pdb
