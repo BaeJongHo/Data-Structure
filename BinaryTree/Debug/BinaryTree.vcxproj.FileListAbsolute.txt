@@ -1,0 +1,2 @@
+C:\Users\owner\source\repos\BinaryTree\Debug\BinaryTree.exe
+C:\Users\owner\source\repos\BinaryTree\Debug\BinaryTree.pdb
