@@ -1,0 +1,2 @@
+C:\Users\owner\source\repos\Sort\Debug\Sort.exe
+C:\Users\owner\source\repos\Sort\Debug\Sort.pdb
